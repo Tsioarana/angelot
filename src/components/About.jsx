@@ -48,9 +48,10 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        Je suis développeur web freelance basé à Madagascar et toujours disponible pour vos projets.
-        Avec mon équipe de développeurs, rédacteurs et graphistes, nous créons des solutions numériques complètes.
-        N’hésitez pas à me contacter pour discuter de vos besoins et concrétiser vos idées !
+        Je suis développeur web passionné, compétent en design et en photographie.
+        Disponible pour réaliser vos projets, je mets mon expertise à votre service, 
+        que ce soit pour la création de sites web, le design graphique ou la photographie.
+        N’hésitez pas à me contacter pour discuter de vos besoins !
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10 justify-center'>
