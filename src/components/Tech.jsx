@@ -9,17 +9,15 @@ import JavaScript from "../assets/tech/javascript.png";
 import bootstrap from "../assets/tech/bootstrap.png";
 import Tailwind from "../assets/tech/tailwind.png";
 import react from "../assets/tech/reactjs.png";
+import next from "../assets/tech/NextJS.png";
 import django from "../assets/tech/django.png";
 import git from "../assets/tech/git.png";
+import github from "../assets/tech/github.png";
 import Photoshop from "../assets/tech/photoshop.png";
 import Illustrator from "../assets/tech/illustrator.png";
 import Canva from "../assets/tech/Canva.png";
 import capcut from "../assets/tech/capcut.png";
-import pr from "../assets/tech/premiere-pro.png";
-import af from "../assets/tech/after-effect.png";
-import troisdmax from "../assets/tech/3dmax.webp";
-import vray from "../assets/tech/vrays.png";
-
+import StudioOne from "../assets/tech/studios.png";
 
 
 
@@ -31,16 +29,15 @@ const techItems = [
   { title: "Bootstrap", imageUrl: bootstrap },
   { title: "Tailwind", imageUrl: Tailwind },
   { title: "React.js", imageUrl: react },
+  { title: "Next.js", imageUrl: next },
   { title: "Django", imageUrl: django },
   { title: "Git", imageUrl: git },
-  { title: "After Effect", imageUrl: af },
+  { title: "GitHub", imageUrl: github },
   { title: "Photoshop", imageUrl: Photoshop },
   { title: "Illustrator", imageUrl: Illustrator },
   { title: "Canva", imageUrl: Canva },
   { title: "CapCut", imageUrl: capcut },
-  { title: "première pro", imageUrl:  pr},
-  { title: "3Dmax", imageUrl: troisdmax },
-  { title: "Vray", imageUrl: vray },
+  { title: "Studio One", imageUrl:  StudioOne}
 ];
 
 const Tech = ({ index }) => {
