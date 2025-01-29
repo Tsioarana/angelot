@@ -49,7 +49,7 @@ const Tech = ({ index }) => {
         variants={fadeIn("up", "spring", index * 0.5, 0.75)}
         >
           <p className={`${styles.sectionSubText} text-center`}>
-            Compétences technologiques
+            Compétences en technologies avancées.
           </p>
           <h2 className={`${styles.sectionHeadText} text-center`}>Compétences</h2>
         </motion.div>
