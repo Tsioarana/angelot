@@ -24,6 +24,8 @@ import {
   moraraha,
   randev,
   devmobile,
+  pr,
+  af,
   
 } from "../assets";
 
