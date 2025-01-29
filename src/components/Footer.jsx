@@ -50,7 +50,7 @@ const Footer = () => {
                 </a>
               </motion.div>
               <motion.div whileHover={{ scale: 1.2 }}>
-                <a href="Tsiferaniaina Angelot" target="_blank" rel="noopener noreferrer">
+                <a href="https://join.skype.com/invite/Gncx05ePT1vH" target="_blank" rel="noopener noreferrer">
                   <FontAwesomeIcon icon={faSkype} className="text-blue-500 text-3xl cursor-pointer" />
                 </a>
               </motion.div>
