@@ -12,6 +12,8 @@ import devmobile from "./photographe.png";
 import css from "./tech/css.png";
 // import docker from "./tech/docker.png";
 // import figma from "./tech/figma.png";
+import pr from "./tech/premiere-pro"
+import af from "./tech/after-effect"
 import git from "./tech/git.png";
 import html from "./tech/html.png";
 import javascript from "./tech/javascript.png";
@@ -37,6 +39,8 @@ import moraraha from "./tech/moraraha.png";
 import prestashop from "./tech/prestashop.png"
 
 export {
+  pr,
+  af,
   zah,
   randev,
   moraraha,
