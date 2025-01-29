@@ -80,7 +80,7 @@ const Contact = () => {
         className='flex-[0.75] p-8 rounded-2xl'
         style={{background: "#0c1a3180"}}
       >
-        <p className={styles.sectionSubText}>Contactez-nous</p>
+        <p className={styles.sectionSubText}>Vous avez un projet en développement web, design ? N’hésitez pas à me contacter pour en discuter. Je suis à votre disposition pour répondre à vos besoins et concrétiser vos idées</p>
         <h3 className={styles.sectionHeadText}>Contact.</h3>
 
         <form
