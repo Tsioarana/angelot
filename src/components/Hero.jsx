@@ -16,7 +16,7 @@ const Hero = () => {
       Je suis <span className='text-[#3043b4]'>Angelot Développeur Web</span>
     </h1>
     <p className={`${styles.heroSubText} mt-2 text-white-100`} style={{ fontSize: '1.2rem', lineHeight: "35px" }}>
-      Je suis passionné d'informatique et je m'engage à perfectionner mes compétences en programmation tout en contribuant activement à l'avancement des nouvelles technologies.
+      Je suis Angelot, développeur web passionné, spécialisé dans les technologies front-end et le design. Avec une expertise en création de sites web modernes et performants, je transforme vos idées en réalités numériques attrayantes et efficaces.
     </p>
   </div>
   {/* Column 1: Image on the left */}
