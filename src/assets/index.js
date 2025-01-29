@@ -7,6 +7,7 @@ import close from "./close.svg";
 import devweb from "./developpeur.png";
 import graphiste from "./conception.png";
 import redaction from "./redacteur.png";
+import devmobile from "./photographe.png";
 
 import css from "./tech/css.png";
 // import docker from "./tech/docker.png";
@@ -50,6 +51,7 @@ export {
   graphiste,
   redaction,
   git,
+  devmobile,
   html,
   javascript,
   mongodb,
