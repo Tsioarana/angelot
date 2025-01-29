@@ -1,13 +1,11 @@
 import logo from "./logo.png";
 import backend from "./backend.png";
-import mobile from "./mobile.png";
 import web from "./web.png";
 import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
 
 import devweb from "./developpeur.png";
-import devmobile from "./telephone-mobile.png";
 import graphiste from "./conception.png";
 import redaction from "./redacteur.png";
 
@@ -55,14 +53,12 @@ export {
   prestashop,
   logo,
   backend,
-  mobile,
   web,
   github,
   menu,
   close,
   css,
   devweb,
-  devmobile,
   graphiste,
   redaction,
   git,
