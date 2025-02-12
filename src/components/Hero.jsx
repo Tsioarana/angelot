@@ -13,10 +13,10 @@ const Hero = () => {
   {/* Column 2: Title and Description on the right */}
   <div className="flex-1">
     <h1 className={`${styles.heroHeadText} text-white`} style={{ fontSize: '3rem' }}>
-      Je suis <span className='text-[#3043b4]'>Angelot Développeur Web</span>
+      Je suis <span className='text-[#3043b4]'>Pascal Développeur Web</span>
     </h1>
     <p className={`${styles.heroSubText} mt-2 text-white-100`} style={{ fontSize: '1.2rem', lineHeight: "35px" }}>
-      Je suis Angelot, développeur web passionné, spécialisé dans les technologies front-end et le design. Avec une expertise en création de sites web modernes et performants, je transforme vos idées en réalités numériques attrayantes et efficaces.
+      Je suis Pascal, développeur web passionné, spécialisé dans les technologies front-end et Back-end. Avec une expertise en création de sites web modernes et performants, je transforme vos idées en réalités numériques attrayantes et efficaces.
     </p>
   </div>
   {/* Column 1: Image on the left */}
