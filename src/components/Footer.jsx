@@ -28,7 +28,7 @@ const Footer = () => {
           transition={{ duration: 0.5 }}
         />
         <p className="text-center mb-2">
-          Tsiferaniaina Angelot, Développeur Web
+          Hasina Pascal, Développeur Web
         </p>
         <p className="text-center mb-4">
           Créatif et passionné par la technologie et le développement.
@@ -39,21 +39,21 @@ const Footer = () => {
           {/* Colonne 1: Réseaux sociaux */}
           <div className="flex flex-col items-center">
             <div className="flex space-x-4 mb-4">
-              <motion.div whileHover={{ scale: 1.2 }}>
+{/*               <motion.div whileHover={{ scale: 1.2 }}>
                 <a href="https://www.facebook.com/tsioarana.nokasaina" target="_blank" rel="noopener noreferrer">
                   <FontAwesomeIcon icon={faFacebookF} className="text-blue-600 text-2xl cursor-pointer" />
                 </a>
-              </motion.div>
+              </motion.div> */}
               <motion.div whileHover={{ scale: 1.2 }}>
-                <a href="https://mg.linkedin.com/in/rolland-razafimahatratra-10a61a274" target="_blank" rel="noopener noreferrer">
+                <a href="https://www.linkedin.com/in/rafanomezantsoa-hasina-pascal-640a23325?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noopener noreferrer">
                   <FontAwesomeIcon icon={faLinkedinIn} className="text-blue-700 text-3xl cursor-pointer" />
                 </a>
               </motion.div>
-              <motion.div whileHover={{ scale: 1.2 }}>
+{/*               <motion.div whileHover={{ scale: 1.2 }}>
                 <a href="https://join.skype.com/invite/Gncx05ePT1vH" target="_blank" rel="noopener noreferrer">
                   <FontAwesomeIcon icon={faSkype} className="text-blue-500 text-3xl cursor-pointer" />
                 </a>
-              </motion.div>
+              </motion.div> */}
               <motion.div whileHover={{ scale: 1.2 }}>
                 <a href="https://github.com/Tsioarana" target="_blank" rel="noopener noreferrer">
                   <FontAwesomeIcon icon={faGithub} className="text-green-300 text-3xl cursor-pointer" />
@@ -62,7 +62,7 @@ const Footer = () => {
             </div>
             <motion.p className="flex items-center mb-1" whileHover={{ scale: 1.1 }}>
                 <FontAwesomeIcon icon={faEnvelope} className="mr-2" />
-                angelottsiferana@gmail.com
+                rafanomezantsoahasinapascal@gmail.com
               </motion.p>
           </div>
 
@@ -84,7 +84,7 @@ const Footer = () => {
 
 
         {/* Mention de copyright */}
-        <p className="text-sm mt-4">© 2025 by Angelot.</p>
+        <p className="text-sm mt-4">© 2025 by Pascal.</p>
       </div>
     </footer>
   );
