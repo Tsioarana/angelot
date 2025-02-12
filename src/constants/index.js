@@ -140,7 +140,7 @@ const experiences = [
     logo_company: moraraha,
     icon: javascript,
     iconBg: "#3488F5FF",
-    date: "decembre 2024 - present",
+    date: "decembre 2024 - janvier 2025",
     points: [
       "Conception et développement d’interfaces utilisateur modernes et performantes avec HTML, CSS (Tailwind), JavaScript/TypeScript et Vanilla JS."
     ],
