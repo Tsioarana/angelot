@@ -15,10 +15,10 @@ const App = () => {
           </div>
         </div>
         <br />
-        <div className='relative z-0'>
+        {/* <div className='relative z-0'>
           <About />
           <StarsCanvas />
-        </div>
+        </div>*/}
         <div className='relative z-0'>
           <Tech />
           <StarsCanvas />
