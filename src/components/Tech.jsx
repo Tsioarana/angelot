@@ -156,7 +156,7 @@ const Tech = ({ index }) => {
 
           {/* Ligne 4 (2 éléments) */}
           <div className="flex gap-10 flex-wrap justify-center" style={{margin: "auto"}}>
-            {techItems.slice(10, 11).map((tech, index) => (
+            {techItems.slice(9, 10).map((tech, index) => (
               <motion.div
               variants={fadeIn("up", "spring", index * 0.5, 0.75)}
               key={tech.title}
