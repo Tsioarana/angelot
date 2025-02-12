@@ -14,10 +14,10 @@ import django from "../assets/tech/django.png";
 import git from "../assets/tech/git.png";
 import github from "../assets/tech/github.png";
 import Photoshop from "../assets/tech/photoshop.png";
-import Illustrator from "../assets/tech/illustrator.png";
-import Canva from "../assets/tech/Canva.png";
-import capcut from "../assets/tech/capcut.png";
-import StudioOne from "../assets/tech/studios.png";
+// import Illustrator from "../assets/tech/illustrator.png";
+// import Canva from "../assets/tech/Canva.png";
+// import capcut from "../assets/tech/capcut.png";
+// import StudioOne from "../assets/tech/studios.png";
 
 
 
@@ -34,10 +34,10 @@ const techItems = [
   { title: "Git", imageUrl: git },
   { title: "GitHub", imageUrl: github },
   { title: "Photoshop", imageUrl: Photoshop },
-  { title: "Illustrator", imageUrl: Illustrator },
-  { title: "Canva", imageUrl: Canva },
-  { title: "CapCut", imageUrl: capcut },
-  { title: "Studio One", imageUrl:  StudioOne}
+  // { title: "Illustrator", imageUrl: Illustrator },
+  // { title: "Canva", imageUrl: Canva },
+  // { title: "CapCut", imageUrl: capcut },
+  // { title: "Studio One", imageUrl:  StudioOne}
 ];
 
 const Tech = ({ index }) => {
@@ -122,7 +122,7 @@ const Tech = ({ index }) => {
           </div>
 
           {/* Ligne 3 (3 éléments) */}
-          <div className="flex gap-10 flex-wrap justify-center" style={{margin: "auto"}}>
+{/*           <div className="flex gap-10 flex-wrap justify-center" style={{margin: "auto"}}>
             {techItems.slice(9, 12).map((tech, index) => (
               <motion.div
               variants={fadeIn("up", "spring", index * 0.5, 0.75)}
@@ -152,7 +152,7 @@ const Tech = ({ index }) => {
               </div>
             </motion.div>
             ))}
-          </div>
+          </div> */}
 
           {/* Ligne 4 (2 éléments) */}
           <div className="flex gap-10 flex-wrap justify-center" style={{margin: "auto"}}>
@@ -188,7 +188,7 @@ const Tech = ({ index }) => {
           </div>
 
           {/* Ligne 5 (1 élément) */}
-          <div className="flex gap-10 flex-wrap justify-center" style={{margin: "auto"}}>
+{/*           <div className="flex gap-10 flex-wrap justify-center" style={{margin: "auto"}}>
             {techItems.slice(14, 16).map((tech, index) => (
               <motion.div
               variants={fadeIn("up", "spring", index * 0.5, 0.75)}
@@ -218,7 +218,7 @@ const Tech = ({ index }) => {
               </div>
             </motion.div>
             ))}
-          </div>
+          </div> */}
         </div>
 
       </div>
