@@ -14,10 +14,10 @@ import django from "../assets/tech/django.png";
 import git from "../assets/tech/git.png";
 import github from "../assets/tech/github.png";
 import Photoshop from "../assets/tech/photoshop.png";
-// import Illustrator from "../assets/tech/illustrator.png";
-// import Canva from "../assets/tech/Canva.png";
-// import capcut from "../assets/tech/capcut.png";
-// import StudioOne from "../assets/tech/studios.png";
+import Illustrator from "../assets/tech/illustrator.png";
+import Canva from "../assets/tech/Canva.png";
+import capcut from "../assets/tech/capcut.png";
+import StudioOne from "../assets/tech/studios.png";
 
 
 
