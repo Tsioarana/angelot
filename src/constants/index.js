@@ -30,10 +30,10 @@ import {
 } from "../assets";
 
 export const navLinks = [
-  {
-    id: "aprops",
-    title: "À propos",
-  },
+  // {
+  //   id: "aprops",
+  //   title: "À propos",
+  // },
   {
     id: "competence",
     title: "Compétences",
