@@ -15,8 +15,8 @@ import {
   projet4,
   projet5,
   projet6,
-  diplome,
-  formation,
+  // diplome,
+  // formation,
   devweb,
   graphiste,
   redaction,
@@ -140,7 +140,7 @@ const experiences = [
     logo_company: moraraha,
     icon: javascript,
     iconBg: "#3488F5FF",
-    date: "decembre 2024 - present",
+    date: "Décembre 2024 - Février 2025",
     points: [
       "Conception et développement d’interfaces utilisateur modernes et performantes avec HTML, CSS (Tailwind), JavaScript/TypeScript et Vanilla JS."
     ],
