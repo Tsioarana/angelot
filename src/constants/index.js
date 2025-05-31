@@ -26,6 +26,7 @@ import {
   devmobile,
   pr,
   af,
+  karma,
   
 } from "../assets";
 
@@ -141,6 +142,17 @@ const experiences = [
     icon: javascript,
     iconBg: "#3488F5FF",
     date: "Décembre 2024 - Février 2025",
+    points: [
+      "Conception et développement d’interfaces utilisateur modernes et performantes avec HTML, CSS (Tailwind), JavaScript/TypeScript et Vanilla JS."
+    ],
+  },
+  {
+    title: "Développeur Freelance",
+    company_name: "Intégrateur et Génie Logiciel",
+    logo_company: karma,
+    icon: reactjs,
+    iconBg: "#0A4561FF",
+    date: "Mars 2025 - Present",
     points: [
       "Conception et développement d’interfaces utilisateur modernes et performantes avec HTML, CSS (Tailwind), JavaScript/TypeScript et Vanilla JS."
     ],

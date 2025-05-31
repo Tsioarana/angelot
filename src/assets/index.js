@@ -37,10 +37,12 @@ import randev from "./tech/randev.png";
 import moraraha from "./tech/moraraha.png";
 
 import prestashop from "./tech/prestashop.png"
+import karma from "./tech/karma.png";
 
 export {
   pr,
   af,
+  karma,
   zah,
   randev,
   moraraha,
