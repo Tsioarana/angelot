@@ -152,9 +152,9 @@ const experiences = [
     logo_company: karma,
     icon: reactjs,
     iconBg: "#0A4561FF",
-    date: "Mars 2025 - Present",
+    date: "Mars 2025 - Juin 2025",
     points: [
-      "Conception et développement d’interfaces utilisateur modernes et performantes avec HTML, CSS (Tailwind), JavaScript/TypeScript et Vanilla JS."
+      "Développeur Front-End spécialisé dans la création d’interfaces web dynamiques et responsives avec les technologies HTML, CSS et ReactJs"
     ],
   },
 ];
